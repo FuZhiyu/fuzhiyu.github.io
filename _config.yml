@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zhiyu Fu <FONT style="color:#880000">符植煜</p> # the website title (if blank, full name will be used instead)
+title: Zhiyu Fu 符植煜 # the website title (if blank, full name will be used instead)
+displaytitle: Zhiyu Fu <font color="#880000">符植煜</font> # the website title (if blank, full name will be used instead)
 first_name: Zhiyu
 middle_name: 
 last_name: Fu
@@ -10,9 +11,8 @@ email: zhiyufu@uchicago.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website. 
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 # keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
